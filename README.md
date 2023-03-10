@@ -33,6 +33,4 @@ Once you have installed the required packages, save your dataset in a csv format
 python random_forest.py
 
 
-
-
-https://www.science.org/doi/10.1126/sciadv.abf4130#F1![image](https://user-images.githubusercontent.com/30676606/224204283-6fc1e57a-bf36-493e-b75d-7048a1698302.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.science.org%2Fdoi%2F10.1126%2Fsciadv.abf4130&psig=AOvVaw1rWxvSGgQhNUq9UmOIoQAO&ust=1678500006172000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDl8Pah0P0CFQAAAAAdAAAAABA1![image](https://user-images.githubusercontent.com/30676606/224204367-43f84841-6447-44d4-aa15-be91359bc32e.png)
